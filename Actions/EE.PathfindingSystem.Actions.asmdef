@@ -1,0 +1,19 @@
+{
+    "name": "EE.PathfindingSystem.Actions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3db908a9a9807404596c6b6dadbf4b25",
+        "GUID:aad74b0923c387e4aaa384f99c72f2eb",
+        "GUID:b352106f17b95434abb776c9abaa348d",
+        "GUID:34c41e7f85c5ccb40bf6f2d5c830f445"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
