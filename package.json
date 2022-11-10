@@ -1,5 +1,6 @@
 {
 	"name": "ee.pathfindingsystem",
 	"version": "1.0.0",
-	"displayName": "EE Pathfinding System"
+	"displayName": "EE Pathfinding System",
+	"description": "Pathfinding System is navigation solution that contains AStar Pathfinding system. This allows users to find paths in a grid."
 }
